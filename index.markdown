@@ -8,4 +8,4 @@ title: Homepage
 #### Please don't judge me!
 #### #First time using jekyll #First time using github
 
-![Me.jpg](assets/photos/Me.jpg){:class="img-responsive"}
+![Me.jpg](/assets/photos/Me.jpg){:class="img-responsive"}
