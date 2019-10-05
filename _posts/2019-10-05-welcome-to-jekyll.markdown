@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mutou Blog"
 date:   2019-10-05 17:04:30 +0800
 categories: jekyll update
 ---
